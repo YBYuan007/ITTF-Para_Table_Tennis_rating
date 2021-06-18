@@ -1,7 +1,7 @@
 # ITTF-Para_rating
 Scrapped ITTF (International Table Tennis Federation) or World Table Tennis -  Para Table Tennis rating from ITTF website (https://www.ipttc.org/rating/). 
 
-The file mainly includes two parts: 
+The file includes two parts: 
 1) obtain all rating published dates. 
   Between 2012 to 2020, not every month have new rating published. 
 2) use all listed dates to access websites (men wheelchair, men standing, women wheelchair and women standing). 
